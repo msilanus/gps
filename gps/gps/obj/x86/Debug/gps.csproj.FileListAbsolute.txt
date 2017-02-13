@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\gps\connexionArduinoAuto\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\gps\connexionArduinoAuto\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\gps\connexionArduinoAuto\obj\x86\Debug\gps.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\gps\connexionArduinoAuto\obj\x86\Debug\connexionArduinoAuto.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\gps\connexionArduinoAuto\bin\Debug\connexionArduinoAuto.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\gps\connexionArduinoAuto\bin\Debug\connexionArduinoAuto.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\gps\connexionArduinoAuto\obj\x86\Debug\connexionArduinoAuto.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\gps\gps\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\gps\gps\obj\x86\Debug\gps.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\gps\gps\bin\Debug\gps.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\gps\gps\bin\Debug\gps.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\gps\gps\obj\x86\Debug\gpsForm.Properties.Resources.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\gps\gps\obj\x86\Debug\gps.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2010\Projects\gps\gps\obj\x86\Debug\gps.pdb
